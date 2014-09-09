@@ -17,7 +17,7 @@ package au.edu.unsw.sltf.services;
 public interface DownloadFileDocument extends org.apache.xmlbeans.XmlObject
 {
     public static final org.apache.xmlbeans.SchemaType type = (org.apache.xmlbeans.SchemaType)
-        org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(DownloadFileDocument.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.s0C4302BA993D16BE57FE920F6B6F6E80").resolveHandle("downloadfilea0e4doctype");
+        org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(DownloadFileDocument.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.sFCDC5E6940272CEA383B2A46489ACDED").resolveHandle("downloadfilea0e4doctype");
     
     /**
      * Gets the "downloadFile" element
@@ -42,7 +42,7 @@ public interface DownloadFileDocument extends org.apache.xmlbeans.XmlObject
     public interface DownloadFile extends org.apache.xmlbeans.XmlObject
     {
         public static final org.apache.xmlbeans.SchemaType type = (org.apache.xmlbeans.SchemaType)
-            org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(DownloadFile.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.s0C4302BA993D16BE57FE920F6B6F6E80").resolveHandle("downloadfileb3a4elemtype");
+            org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(DownloadFile.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.sFCDC5E6940272CEA383B2A46489ACDED").resolveHandle("downloadfileb3a4elemtype");
         
         /**
          * Gets the "eventSetId" element

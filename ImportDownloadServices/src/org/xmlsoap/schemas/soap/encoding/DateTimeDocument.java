@@ -17,7 +17,7 @@ package org.xmlsoap.schemas.soap.encoding;
 public interface DateTimeDocument extends org.apache.xmlbeans.XmlObject
 {
     public static final org.apache.xmlbeans.SchemaType type = (org.apache.xmlbeans.SchemaType)
-        org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(DateTimeDocument.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.s0C4302BA993D16BE57FE920F6B6F6E80").resolveHandle("datetime9b71doctype");
+        org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(DateTimeDocument.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.sFCDC5E6940272CEA383B2A46489ACDED").resolveHandle("datetime9b71doctype");
     
     /**
      * Gets the "dateTime" element

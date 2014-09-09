@@ -6,11 +6,11 @@
  * by the Apache Axis2 version: 1.6.2  Built on : Apr 17, 2012 (05:33:49 IST)
  */
 
-package au.edu.unsw.services;
+package au.edu.unsw.sltf.services;
 
 public class SummaryMarketDataFaultException extends java.lang.Exception{
 
-    private static final long serialVersionUID = 1410241936941L;
+    private static final long serialVersionUID = 1410242749414L;
     
     private au.edu.unsw.sltf.services.SummaryMarketDataFaultDocument faultMessage;
 

@@ -16,7 +16,7 @@ package org.xmlsoap.schemas.soap.encoding;
 public interface Base64 extends org.apache.xmlbeans.XmlBase64Binary
 {
     public static final org.apache.xmlbeans.SchemaType type = (org.apache.xmlbeans.SchemaType)
-        org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(Base64.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.s28C7C199E3F43F9B8BADD4C6D828E216").resolveHandle("base64c455type");
+        org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(Base64.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.sFBBC9E6125C8398FDCCFF29A83D2A797").resolveHandle("base64c455type");
     
     /**
      * A factory class with static methods for creating instances

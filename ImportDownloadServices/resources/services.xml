@@ -4,9 +4,9 @@
 <serviceGroup>
     <service name="ImportDownloadServices">
         <messageReceivers>
-            <messageReceiver mep="http://www.w3.org/ns/wsdl/in-out" class="au.edu.unsw.services.ImportDownloadServicesMessageReceiverInOut"/>
+            <messageReceiver mep="http://www.w3.org/ns/wsdl/in-out" class="au.edu.unsw.sltf.services.ImportDownloadServicesMessageReceiverInOut"/>
         </messageReceivers>
-        <parameter name="ServiceClass">au.edu.unsw.services.ImportDownloadServicesSkeleton</parameter>
+        <parameter name="ServiceClass">au.edu.unsw.sltf.services.ImportDownloadServicesSkeleton</parameter>
         <parameter name="useOriginalwsdl">true</parameter>
         <parameter name="modifyUserWSDLPortAddress">true</parameter>
         <operation name="importMarketData" mep="http://www.w3.org/ns/wsdl/in-out" namespace="http://sltf.unsw.edu.au/services">

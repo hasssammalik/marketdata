@@ -17,7 +17,7 @@ package au.edu.unsw.sltf.services;
 public interface DownloadFileResponseDocument extends org.apache.xmlbeans.XmlObject
 {
     public static final org.apache.xmlbeans.SchemaType type = (org.apache.xmlbeans.SchemaType)
-        org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(DownloadFileResponseDocument.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.s0C4302BA993D16BE57FE920F6B6F6E80").resolveHandle("downloadfileresponse45a3doctype");
+        org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(DownloadFileResponseDocument.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.sFCDC5E6940272CEA383B2A46489ACDED").resolveHandle("downloadfileresponse45a3doctype");
     
     /**
      * Gets the "downloadFileResponse" element
@@ -42,7 +42,7 @@ public interface DownloadFileResponseDocument extends org.apache.xmlbeans.XmlObj
     public interface DownloadFileResponse extends org.apache.xmlbeans.XmlObject
     {
         public static final org.apache.xmlbeans.SchemaType type = (org.apache.xmlbeans.SchemaType)
-            org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(DownloadFileResponse.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.s0C4302BA993D16BE57FE920F6B6F6E80").resolveHandle("downloadfileresponsefdc4elemtype");
+            org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(DownloadFileResponse.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.sFCDC5E6940272CEA383B2A46489ACDED").resolveHandle("downloadfileresponsefdc4elemtype");
         
         /**
          * Gets the "dataURL" element

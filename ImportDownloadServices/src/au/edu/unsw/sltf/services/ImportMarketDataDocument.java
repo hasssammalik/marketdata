@@ -17,7 +17,7 @@ package au.edu.unsw.sltf.services;
 public interface ImportMarketDataDocument extends org.apache.xmlbeans.XmlObject
 {
     public static final org.apache.xmlbeans.SchemaType type = (org.apache.xmlbeans.SchemaType)
-        org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(ImportMarketDataDocument.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.s0C4302BA993D16BE57FE920F6B6F6E80").resolveHandle("importmarketdataacdddoctype");
+        org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(ImportMarketDataDocument.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.sFCDC5E6940272CEA383B2A46489ACDED").resolveHandle("importmarketdataacdddoctype");
     
     /**
      * Gets the "importMarketData" element
@@ -42,7 +42,7 @@ public interface ImportMarketDataDocument extends org.apache.xmlbeans.XmlObject
     public interface ImportMarketData extends org.apache.xmlbeans.XmlObject
     {
         public static final org.apache.xmlbeans.SchemaType type = (org.apache.xmlbeans.SchemaType)
-            org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(ImportMarketData.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.s0C4302BA993D16BE57FE920F6B6F6E80").resolveHandle("importmarketdatacf84elemtype");
+            org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(ImportMarketData.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.sFCDC5E6940272CEA383B2A46489ACDED").resolveHandle("importmarketdatacf84elemtype");
         
         /**
          * Gets the "sec" element

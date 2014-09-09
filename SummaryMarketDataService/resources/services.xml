@@ -4,9 +4,9 @@
 <serviceGroup>
     <service name="SummaryMarketDataService">
         <messageReceivers>
-            <messageReceiver mep="http://www.w3.org/ns/wsdl/in-out" class="au.edu.unsw.services.SummaryMarketDataServiceMessageReceiverInOut"/>
+            <messageReceiver mep="http://www.w3.org/ns/wsdl/in-out" class="au.edu.unsw.sltf.services.SummaryMarketDataServiceMessageReceiverInOut"/>
         </messageReceivers>
-        <parameter name="ServiceClass">au.edu.unsw.services.SummaryMarketDataServiceSkeleton</parameter>
+        <parameter name="ServiceClass">au.edu.unsw.sltf.services.SummaryMarketDataServiceSkeleton</parameter>
         <parameter name="useOriginalwsdl">true</parameter>
         <parameter name="modifyUserWSDLPortAddress">true</parameter>
         <operation name="summaryMarketData" mep="http://www.w3.org/ns/wsdl/in-out" namespace="http://sltf.unsw.edu.au/services">

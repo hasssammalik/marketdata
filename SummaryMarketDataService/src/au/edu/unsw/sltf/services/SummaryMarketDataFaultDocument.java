@@ -17,7 +17,7 @@ package au.edu.unsw.sltf.services;
 public interface SummaryMarketDataFaultDocument extends org.apache.xmlbeans.XmlObject
 {
     public static final org.apache.xmlbeans.SchemaType type = (org.apache.xmlbeans.SchemaType)
-        org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(SummaryMarketDataFaultDocument.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.s28C7C199E3F43F9B8BADD4C6D828E216").resolveHandle("summarymarketdatafaultc152doctype");
+        org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(SummaryMarketDataFaultDocument.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.sFBBC9E6125C8398FDCCFF29A83D2A797").resolveHandle("summarymarketdatafaultc152doctype");
     
     /**
      * Gets the "summaryMarketDataFault" element
@@ -42,7 +42,7 @@ public interface SummaryMarketDataFaultDocument extends org.apache.xmlbeans.XmlO
     public interface SummaryMarketDataFault extends org.apache.xmlbeans.XmlObject
     {
         public static final org.apache.xmlbeans.SchemaType type = (org.apache.xmlbeans.SchemaType)
-            org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(SummaryMarketDataFault.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.s28C7C199E3F43F9B8BADD4C6D828E216").resolveHandle("summarymarketdatafaultb0a4elemtype");
+            org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(SummaryMarketDataFault.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.sFBBC9E6125C8398FDCCFF29A83D2A797").resolveHandle("summarymarketdatafaultb0a4elemtype");
         
         /**
          * Gets the "faultType" element

@@ -17,7 +17,7 @@ package au.edu.unsw.sltf.services;
 public interface ImportDownloadFaultDocument extends org.apache.xmlbeans.XmlObject
 {
     public static final org.apache.xmlbeans.SchemaType type = (org.apache.xmlbeans.SchemaType)
-        org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(ImportDownloadFaultDocument.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.s0C4302BA993D16BE57FE920F6B6F6E80").resolveHandle("importdownloadfaultc825doctype");
+        org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(ImportDownloadFaultDocument.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.sFCDC5E6940272CEA383B2A46489ACDED").resolveHandle("importdownloadfaultc825doctype");
     
     /**
      * Gets the "importDownloadFault" element
@@ -42,7 +42,7 @@ public interface ImportDownloadFaultDocument extends org.apache.xmlbeans.XmlObje
     public interface ImportDownloadFault extends org.apache.xmlbeans.XmlObject
     {
         public static final org.apache.xmlbeans.SchemaType type = (org.apache.xmlbeans.SchemaType)
-            org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(ImportDownloadFault.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.s0C4302BA993D16BE57FE920F6B6F6E80").resolveHandle("importdownloadfault8bc4elemtype");
+            org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(ImportDownloadFault.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.sFCDC5E6940272CEA383B2A46489ACDED").resolveHandle("importdownloadfault8bc4elemtype");
         
         /**
          * Gets the "faultType" element

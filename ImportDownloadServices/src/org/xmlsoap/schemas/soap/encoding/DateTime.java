@@ -16,7 +16,7 @@ package org.xmlsoap.schemas.soap.encoding;
 public interface DateTime extends org.apache.xmlbeans.XmlDateTime
 {
     public static final org.apache.xmlbeans.SchemaType type = (org.apache.xmlbeans.SchemaType)
-        org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(DateTime.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.s0C4302BA993D16BE57FE920F6B6F6E80").resolveHandle("datetime4161type");
+        org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(DateTime.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.sFCDC5E6940272CEA383B2A46489ACDED").resolveHandle("datetime4161type");
     
     /**
      * Gets the "id" attribute

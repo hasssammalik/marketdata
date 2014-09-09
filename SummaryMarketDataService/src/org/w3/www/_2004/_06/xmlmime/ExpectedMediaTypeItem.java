@@ -16,7 +16,7 @@ package org.w3.www._2004._06.xmlmime;
 public interface ExpectedMediaTypeItem extends org.apache.xmlbeans.XmlString
 {
     public static final org.apache.xmlbeans.SchemaType type = (org.apache.xmlbeans.SchemaType)
-        org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(ExpectedMediaTypeItem.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.s28C7C199E3F43F9B8BADD4C6D828E216").resolveHandle("expectedmediatypeitemd20btype");
+        org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(ExpectedMediaTypeItem.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.sFBBC9E6125C8398FDCCFF29A83D2A797").resolveHandle("expectedmediatypeitemd20btype");
     
     /**
      * A factory class with static methods for creating instances
